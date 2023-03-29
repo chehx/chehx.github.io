@@ -21,10 +21,7 @@ jobs:
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
-        echo "GITHUB_ACTOR: ${GITHUB_ACTOR}"
-        echo "GITHUB_REPOSITORY: ${GITHUB_REPOSITORY}"
-        echo "GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GH_PAT }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
