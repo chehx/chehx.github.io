@@ -71,7 +71,7 @@ During my undergraduate studies, I was fortunate to receive prestigious honors a
 - The China National Scholarship, Top 2% (*2016-2017*, *2017-2018*)
 - The First Prize in the National College Students Mathematics Modeling Competition, Top 0.88% (*2017.11*)
 - The Excellent Paper Award for the National College Students Mathematics Modeling Competition, 12/33062 (*2017.11*)
-- The First Prize \& Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230 (*2017.04*)
+- The First Prize and Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230 (*2017.04*)
 
 # 📖 Educations
 - *2021.08 - 2023.04 (now)*, Ph.D. Student, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
