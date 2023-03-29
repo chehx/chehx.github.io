@@ -82,9 +82,12 @@ During my undergraduate studies, I was fortunate to receive prestigious honors a
 - Conference Reviewer: AAAI2023
 
 # 📚 Teaching Experience
-COMP 
+COMP 4421 Image Processing, 2022-2023 Fall Semester.
+COMP 4451 Game Programming, 2021-2022 Spring Semester.
 
-# 
+# 🧑‍💻 Mentee
+- *2021.10 - 2022.12*, Siyu Chen (Undergraduate, HKUST)
+- *2022.06 - 2023.04 (now)*, Yuhan Cheng (Undergraduate, HKUST)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
