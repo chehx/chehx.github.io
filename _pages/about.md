@@ -82,8 +82,8 @@ During my undergraduate studies, I was fortunate to receive prestigious honors a
 - Conference Reviewer: AAAI2023
 
 # 📚 Teaching Experience
-COMP 4421 Image Processing, 2022-2023 Fall Semester.
-COMP 4451 Game Programming, 2021-2022 Spring Semester.
+- COMP 4421 Image Processing, 2022-2023 Fall Semester.
+- COMP 4451 Game Programming, 2021-2022 Spring Semester.
 
 # 🧑‍💻 Mentee
 - *2021.10 - 2022.12*, Siyu Chen (Undergraduate, HKUST)
