@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Ph.D. degree in Computer Science and Engineering at [the Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My research interests include computer vision, medical image analysis, and trustworthy artificial intelligence.
+I am pursuing my Ph.D. degree in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My research interests include computer vision, medical image analysis, and trustworthy artificial intelligence.
 
 Before HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honors, and obtained a bachelor's degree of software engineering from the school of software and microelectronics. 
 During my undergraduate studies, I was fortunate to receive prestigious honors and awards, including the China National Scholarship.
@@ -86,8 +86,8 @@ During my undergraduate studies, I was fortunate to receive prestigious honors a
 - COMP 4451 Game Programming, 2021-2022 Spring Semester.
 
 # 🧑‍💻 Mentee
-- *2021.10 - 2022.12*, Siyu Chen (Undergraduate, HKUST)
 - *2022.06 - 2023.04 (now)*, Yuhan Cheng (Undergraduate, HKUST)
+- *2021.11 - 2023.01*, Siyu Chen (Undergraduate, HKUST)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
