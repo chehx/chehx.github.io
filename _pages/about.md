@@ -86,8 +86,9 @@ During my undergraduate studies, I was fortunate to receive prestigious honors a
 - COMP 4451 Game Programming, 2021-2022 Spring Semester.
 
 # 🧑‍💻 Mentee
-- *2022.06 - 2023.04 (now)*, Yuhan Cheng (Undergraduate, HKUST)
-- *2021.11 - 2023.01*, Siyu Chen (Undergraduate, HKUST)
+- *2023.02 - 2023.04 (present)*, Yifei Wu (UG @ NWPU, will pursuit M.S. in NWPU)
+- *2022.06 - 2023.04 (present)*, Yuhan Cheng (UG @ HKUST)
+- *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, will pursuit Ph.D. in HKUST)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
