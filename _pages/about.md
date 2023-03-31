@@ -74,7 +74,7 @@ During my undergraduate studies, I was fortunate to receive prestigious honors a
 - The First Prize and Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230 (*2017.04*)
 
 # 📖 Educations
-- *2021.08 - 2023.04 (now)*, Ph.D. Student, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
+- *2021.08 - 2023.04 (present)*, Ph.D. Student, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
 - *2015.09 - 2019.06*, Undergradte, School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an.
 - *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an.
 
