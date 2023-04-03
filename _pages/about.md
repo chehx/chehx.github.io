@@ -52,7 +52,7 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
 *Accepted by the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
 (CCF-A, Acceptance rate: 25.78%)
-| [[Arxiv](https://arxiv.org/pdf/2303.15038)] [[Github](https://github.com/chehx/MKCNet)]
+| [[Arxiv](https://arxiv.org/abs/2303.15038)] [[Github](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
 *In Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2022. 
 (CCF-B, Early accepted with rate of 13.6%, MICCAI Travel Award)
@@ -77,7 +77,7 @@ Thank you, Innovation and Technology Commission!
 
 # 📖 Educations
 - *2021.08 - 2023.04 (present)*, Ph.D. Student, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
-- *2015.09 - 2019.06*, Undergradte, School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an.
+- *2015.09 - 2019.06*, Undergraduate, School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an.
 - *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an.
 
 # 💻 Professional Service
