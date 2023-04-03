@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Ph.D. degree in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My research interests include computer vision, medical image analysis, and trustworthy artificial intelligence.
+I am pursuing my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My primary research interests lie in computer vision, medical image analysis, and trustworthy artificial intelligence.
 
-Before HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honors, and obtained a bachelor's degree of software engineering from the school of software and microelectronics. 
-During my undergraduate studies, I was fortunate to receive prestigious honors and awards, including the China National Scholarship.
+Prior to joining HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honors, and obtained a bachelor's degree of software engineering from the school of software and microelectronics. 
+Throughout my undergraduate studies, I was honored to receive several prestigious awards and recognitions, including the China National Scholarship.
+
 <!-- Honestly, I have chance to work with some great researchers as Prof.Feiping Nie, Prof. Xuelong Li and Prof. Wei Zheng in the field of machine learning. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -81,7 +82,9 @@ Thank you, Innovation and Technology Commission!
 - *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an.
 
 # 💻 Professional Service
-- Conference Reviewer: AAAI2023
+- Conference Reviewer: 
+  - AAAI Conference on Artificial Intelligence (AAAI) 2023
+
 
 # 📚 Teaching Experience
 - COMP 4421 Image Processing, 2022-2023 Fall Semester.
