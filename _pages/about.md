@@ -84,13 +84,17 @@ Thank you, Innovation and Technology Commission!
 # 💻 Professional Service
 - Conference Reviewer: 
   - AAAI Conference on Artificial Intelligence (AAAI) 2023
-
+- Journal Reviewer:
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Competition Organization:
+  - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org)
 
 # 📚 Teaching Experience
-- COMP 4421 Image Processing, 2022-2023 Fall Semester.
-- COMP 4451 Game Programming, 2021-2022 Spring Semester.
+## Course 
+- COMP 4421 Image Processing, Teaching Assisstant, 2022-2023 Fall Semester.
+- COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
-# 🧑‍💻 Mentee
+## Mentee
 - *2023.02 - 2023.04 (present)*, Yifei Wu (UG @ NWPU, will pursuit M.S. in NWPU)
 - *2022.06 - 2023.04 (present)*, Yuhan Cheng (UG @ HKUST)
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, will pursuit Ph.D. in HKUST)
