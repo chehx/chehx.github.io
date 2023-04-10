@@ -53,15 +53,15 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
 *Accepted by the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
 (CCF-A, Acceptance rate: 25.78%)
-| [[Arxiv](https://arxiv.org/abs/2303.15038)] [[Github](https://github.com/chehx/MKCNet)]
+| [[Paper](https://arxiv.org/abs/2303.15038)] [[Code](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
 *In Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2022. 
 (CCF-B, Early accepted with rate of 13.6%, MICCAI Travel Award)
-| [[Arxiv](https://arxiv.org/abs/2207.04183)] [Github]
+| [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
 - Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
 *IEEE Journal on Selected Areas in Communications*, vol. 39, no. 12, pp. 3805-3820, 2021. 
 (CCF-A, IF: 13.081)
-| [[Arxiv](https://ieeexplore.ieee.org/abstract/document/9565851)]
+| [[Paper](https://ieeexplore.ieee.org/abstract/document/9565851)]
 - Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
 | [[Google Patent](https://patents.google.com/patent/CN110070121A/zh?oq=CN110070121A)]
