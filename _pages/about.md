@@ -86,8 +86,8 @@ Thank you, Innovation and Technology Commission!
   - AAAI Conference on Artificial Intelligence (AAAI) 2023
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- Competition Organization:
-  - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org)
+- Competition and Workshop Organization:
+  - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (MICCAI 22)
 
 # 📚 Teaching Experience
 ## Course 
