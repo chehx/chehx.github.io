@@ -32,7 +32,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 - *2023.02*: &nbsp;🎉🎉 Our paper was shortlisted by [CSE Research and Technology Forum](https://cse.hkust.edu.hk/event/RTF2023/), happy to be a part of this great event!
 - *2022.07*: &nbsp;🎉🎉 Glad to be selected for [MICCAI Travel Award](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html), thanks for the support!
 - *2022.05*: &nbsp;🎉🎉 Our paper got early accepted by MICCAI 2022, see you in Singapore!
-- *2022.03*: &nbsp;🎉🎉 Honored to be the person in charge of 2022/23 [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/l-eng/TSSSU_directory.asp) (TSSSU).
+- *2022.03*: &nbsp;🎉🎉 Honored to be the person in charge of 2022/23 [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03) (TSSSU).
 Thank you, Innovation and Technology Commission!
 
 # 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)]
@@ -100,7 +100,7 @@ Thank you, Innovation and Technology Commission!
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, will pursuit Ph.D. in HKUST)
 
 # 💬 Grants
-- *2022.03 - 2024.03*, Technology Start-up Support Scheme for Universities, The Innovation and Technology Commission (ITC) of the Hong Kong SAR. | [[Website](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03)]
+- *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
 
 <!-- #  💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
