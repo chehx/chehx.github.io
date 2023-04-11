@@ -32,7 +32,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 - *2023.02*: &nbsp;🎉🎉 Our paper was shortlisted by [CSE Research and Technology Forum](https://cse.hkust.edu.hk/event/RTF2023/), happy to be a part of this great event!
 - *2022.07*: &nbsp;🎉🎉 Glad to be selected for [MICCAI Travel Award](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html), thanks for the support!
 - *2022.05*: &nbsp;🎉🎉 Our paper got early accepted by MICCAI 2022, see you in Singapore!
-- *2022.04*: &nbsp;🎉🎉 Honored to be the person in charge of 2022/23 [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/l-eng/TSSSU_directory.asp) (TSSSU).
+- *2022.03*: &nbsp;🎉🎉 Honored to be the person in charge of 2022/23 [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/l-eng/TSSSU_directory.asp) (TSSSU).
 Thank you, Innovation and Technology Commission!
 
 # 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)]
