@@ -87,7 +87,7 @@ Thank you, Innovation and Technology Commission!
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Competition and Workshop Organization:
-  - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (MICCAI 22)
+  - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (within MICCAI 22)
 
 # 📚 Teaching Experience
 ## Course 
@@ -99,7 +99,10 @@ Thank you, Innovation and Technology Commission!
 - *2022.06 - 2023.04 (present)*, Yuhan Cheng (UG @ HKUST)
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, will pursuit Ph.D. in HKUST)
 
-<!-- # 💬 Invited Talks
+# 💬 Grants
+- *2022.03 - 2024.03*, Technology Start-up Support Scheme for Universities, The Innovation and Technology Commission (ITC) of the Hong Kong SAR. | [[Website](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03)]
+
+<!-- #  💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
