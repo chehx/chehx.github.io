@@ -34,6 +34,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 - *2022.05*: &nbsp;🎉🎉 Our paper got early accepted by MICCAI 2022, see you in Singapore!
 - *2022.03*: &nbsp;🎉🎉 Honored to be the person in charge of 2022/23 [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03) (TSSSU).
 Thank you, Innovation and Technology Commission!
+- *2021.10*: &nbsp;🎉🎉 Our paper got accepted by IEEE JSAC!
 
 # 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)]
 
