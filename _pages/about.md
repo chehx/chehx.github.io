@@ -28,6 +28,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+- *2023.05*: &nbsp;🎉🎉 Our paper got early accepted by MICCAI 2023, see you in Vancouver!
 - *2023.03*: &nbsp;🎉🎉 Our paper got accepted by CVPR 2023, see you in Vancouver!
 - *2023.02*: &nbsp;🎉🎉 Our paper was shortlisted by [CSE Research and Technology Forum](https://cse.hkust.edu.hk/event/RTF2023/), happy to be a part of this great event!
 - *2022.07*: &nbsp;🎉🎉 Glad to be selected for [MICCAI Travel Award](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html), thanks for the support!
@@ -50,9 +51,11 @@ Thank you, Innovation and Technology Commission!
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
+- **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
+*In Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
+(CCF-B, Early accepted with rate of 13.6%)
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
-*Accepted by the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
+*In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
 (CCF-A, Acceptance rate: 25.78%)
 | [[Paper](https://arxiv.org/abs/2303.15038)] [[Code](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
