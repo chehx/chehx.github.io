@@ -53,7 +53,7 @@ Thank you, Innovation and Technology Commission!
 </div> -->
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
 *Accepted by International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
-(CCF-B, Early accepted with rate of 13.6%)
+(CCF-B, Early accepted with rate of top 14%)
 | [Paper] [Code]
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
 *In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
@@ -61,7 +61,7 @@ Thank you, Innovation and Technology Commission!
 | [[Paper](https://arxiv.org/abs/2303.15038)] [[Code](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
 *In Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2022. 
-(CCF-B, Early accepted with rate of 13.6%, MICCAI Travel Award)
+(CCF-B, Early accepted with rate of top 13.6%, MICCAI Travel Award)
 | [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
 - Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
 *IEEE Journal on Selected Areas in Communications*, vol. 39, no. 12, pp. 3805-3820, 2021. 
