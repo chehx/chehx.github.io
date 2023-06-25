@@ -29,7 +29,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉 I successfully passed my PhD qualifying examination, thanks to my advisor and all the committee members!
-- *2023.05*: &nbsp;🎉🎉 Our paper got early accepted by MICCAI 2023, see you in Vancouver!
+- *2023.05*: &nbsp;🎉🎉 Our two papers got accepted by MICCAI 2023 (one of them is early accepted), see you in Vancouver!
 - *2023.03*: &nbsp;🎉🎉 Our paper got accepted by CVPR 2023, see you in Vancouver!
 - *2023.02*: &nbsp;🎉🎉 Our paper was shortlisted by [CSE Research and Technology Forum](https://cse.hkust.edu.hk/event/RTF2023/), happy to be a part of this great event!
 - *2022.07*: &nbsp;🎉🎉 Glad to be selected for [MICCAI Travel Award](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html), thanks for the support!
@@ -52,6 +52,10 @@ Thank you, Innovation and Technology Commission!
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
+*Accepted by International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
+(CCF-B, Acceptance rate: 32.0%)
+| [Paper] [Code]
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
 *Accepted by International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
 (CCF-B, Early accepted with rate of top 14%)
