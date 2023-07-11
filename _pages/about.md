@@ -59,7 +59,7 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
 *Accepted by International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
 (CCF-B, Early accepted with rate of top 14%)
-| [Paper] [Code]
+| [[Paper](https://arxiv.org/abs/2307.04378)] [[Code](https://github.com/chehx/DGDR)]
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
 *In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
 (CCF-A, Acceptance rate: 25.78%)
