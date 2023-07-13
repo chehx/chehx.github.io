@@ -53,19 +53,19 @@ Thank you, Innovation and Technology Commission!
 </div>
 </div> -->
 - Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
-*Accepted by International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
 (CCF-B, Acceptance rate: 32.0%)
 | [Paper] [Code]
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
-*Accepted by International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
 (CCF-B, Early accepted with rate of top 14%)
 | [[Paper](https://arxiv.org/abs/2307.04378)] [[Code](https://github.com/chehx/DGDR)]
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
-*In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
 (CCF-A, Acceptance rate: 25.78%)
 | [[Paper](https://arxiv.org/abs/2303.15038)] [[Code](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
-*In Proceedings of International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2022. 
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2022. 
 (CCF-B, Early accepted with rate of top 13.6%, MICCAI Travel Award)
 | [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
 - Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
