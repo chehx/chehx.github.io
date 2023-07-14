@@ -93,7 +93,7 @@ Thank you, Innovation and Technology Commission!
 
 # 💻 Professional Service
 - Conference Reviewer: 
-  - AAAI Conference on Artificial Intelligence (AAAI) 2023
+  - AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Competition and Workshop Organization:
