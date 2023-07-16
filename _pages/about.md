@@ -19,7 +19,7 @@ redirect_from:
 
 I am pursuing my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My primary research interests lie in computer vision, medical image analysis, and trustworthy artificial intelligence.
 
-Prior to joining HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honors, and obtained a bachelor's degree of software engineering from the school of software and microelectronics. 
+Prior to joining HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor, and obtained a Bachelor’s degree in Software Engineering from the School of Software and Microelectronics.
 Throughout my undergraduate studies, I was honored to receive several prestigious awards and recognitions, including the China National Scholarship.
 
 <!-- Honestly, I have chance to work with some great researchers as Prof.Feiping Nie, Prof. Xuelong Li and Prof. Wei Zheng in the field of machine learning. -->
