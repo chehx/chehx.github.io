@@ -93,7 +93,7 @@ Thank you, Innovation and Technology Commission!
 - *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an.
 
 # 💻 Professional Service
-- Conference Reviewer: 
+- Conference Program Committee Member: 
   - AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
