@@ -55,23 +55,23 @@ Thank you, Innovation and Technology Commission!
 
 - Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
-(CCF-B, Acceptance rate: 32.0%)
+(Acceptance rate: 32.0%)
 | [Paper] [Code]
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
-(CCF-B, Early accepted with rate of top 14%)
+(Early accepted with rate of top 14%)
 | [[Paper](https://arxiv.org/abs/2307.04378)] [[Code](https://github.com/chehx/DGDR)]
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023.
-(CCF-A, Acceptance rate: 25.78%)
+(Acceptance rate: 25.78%)
 | [[Paper](https://arxiv.org/abs/2303.15038)] [[Code](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2022. 
-(CCF-B, Early accepted with rate of top 13.6%, MICCAI Travel Award)
+(Early accepted with rate of top 13.6%, MICCAI Travel Award)
 | [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
 - Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
 *IEEE Journal on Selected Areas in Communications*, vol. 39, no. 12, pp. 3805-3820, 2021. 
-(CCF-A, IF: 13.081)
+(IF: 13.081)
 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9565851)]
 - Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
