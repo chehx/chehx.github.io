@@ -58,7 +58,7 @@ Thank you, Innovation and Technology Commission!
 - Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
 (Acceptance rate: 32.0%)
-| [[Paper](https://arxiv.org/abs/2308.13286)] [Code]
+| [[Paper](https://arxiv.org/abs/2308.13286)] [[Code](https://github.com/jhb86253817/uda_med_landmark)]
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2023. 
 (Early accepted with rate of top 14%)
