@@ -39,7 +39,7 @@ Thank you, Innovation and Technology Commission!
 - *2021.10*: &nbsp;🎉🎉 Our paper got accepted by IEEE JSAC!
 
 # 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)]
-
+*(† indicates equal contributions)*
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +52,7 @@ Thank you, Innovation and Technology Commission!
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- **Haoxuan Che**, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
+- **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper]
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
@@ -81,9 +81,8 @@ Thank you, Innovation and Technology Commission!
 - Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
 | [[Google Patent](https://patents.google.com/patent/CN110070121A/zh?oq=CN110070121A)]
-- Yuandong Li, **Haoxuan Che**, Xinyu Hou. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
-*Chinese Journal of Engineering Mathematics*, vol. 34, supp. 1, pp. 125-130, 2017. 
-(All authors contribute equally)
+- Yuandong Li<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Xinyu Hou<sup>†</sup>. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
+*Chinese Journal of Engineering Mathematics*, vol. 34, supp. 1, pp. 125-130, 2017.
 
 # 🎖 Selected Honors and Awards
 - The Honor of Outstanding Graduate at Northwestern Polytechnical University, Top 5% (*2019.06*)
