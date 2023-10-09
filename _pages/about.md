@@ -38,8 +38,9 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 Thank you, Innovation and Technology Commission!
 - *2021.10*: &nbsp;🎉🎉 Our paper got accepted by IEEE JSAC!
 
-# 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)] *(† indicates equal contributions)*
-
+# 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)]
+ *(† indicates equal contributions)*
+ 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +53,8 @@ Thank you, Innovation and Technology Commission!
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
+- Haibo Jin<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. *Pre-Print*, 2023. 
+| [Paper]
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper]
@@ -112,9 +114,9 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.02 - 2023.04 (present)*, Yifei Wu (UG @ NWPU, will pursuit M.S. in NWPU)
+- *2023.02 - 2023.04 (present)*, Yifei Wu (UG @ NWPU, current position: M.S. in NWPU)
 - *2022.06 - 2023.04 (present)*, Yuhan Cheng (UG @ HKUST)
-- *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, will pursuit Ph.D. in HKUST)
+- *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, current position: Ph.D. in HKUST)
 
 # 💬 Grants
 - *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
