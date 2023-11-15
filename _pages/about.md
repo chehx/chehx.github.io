@@ -52,6 +52,9 @@ Thank you, Innovation and Technology Commission!
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- **Haoxuan Che**<sup>†</sup>, Haibo Jin<sup>†</sup>, Yi, Lin, Hao Chen. FedGMRG: Federated Learning for Generalizable Medical Report Generation. 
+*Pre-Print*, 2023. 
+| [Paper]
 - Haibo Jin<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. *Pre-Print*, 2023. 
 | [Paper]
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
