@@ -118,8 +118,9 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.02 - 2023.04 (present)*, Yifei Wu (UG @ NWPU, current position: M.S. in NWPU)
-- *2022.06 - 2023.04 (present)*, Yuhan Cheng (UG @ HKUST)
+- *2023.06 - 2023.12 (present)*, Hoi-Tin Wong (UG @ HKUST)
+- *2023.02 - 2023.12 (present)*, Yifei Wu (UG @ NWPU, current position: M.S. in NWPU)
+- *2022.06 - 2023.12 (present)*, Yuhan Cheng (UG @ HKUST)
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, current position: Ph.D. in HKUST)
 
 # 💬 Grants
