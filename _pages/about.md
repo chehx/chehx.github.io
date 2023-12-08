@@ -28,6 +28,8 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+<!-- - *2023.11*: &nbsp;🎉🎉 Our paper was accepted by Nature Medicine and it will be published soon! -->
+- *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon! Thanks for all the co-authors!
 - *2023.06*: &nbsp;🎉🎉 I successfully passed my PhD qualifying examination, thanks to my advisor and all the committee members!
 - *2023.05*: &nbsp;🎉🎉 Our two papers got accepted by MICCAI 2023 (one is early accepted), see you in Vancouver!
 - *2023.03*: &nbsp;🎉🎉 Our paper got accepted by CVPR 2023, see you in Vancouver!
@@ -118,6 +120,7 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
+- *2023.07 - 2023.12 (present)*, Lingqi Zeng (UG @ HKUST)
 - *2023.06 - 2023.12 (present)*, Hoi-Tin Wong (UG @ HKUST)
 - *2023.02 - 2023.12 (present)*, Yifei Wu (UG @ NWPU, current position: M.S. in NWPU)
 - *2022.06 - 2023.12 (present)*, Yuhan Cheng (UG @ HKUST)
