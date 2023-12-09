@@ -28,7 +28,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2024, see you in Vancouver!
+- *2023.12*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2024, see you in Vancouver!
 - *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon!
 - *2023.06*: &nbsp;🎉🎉 I successfully passed my PhD qualifying examination, thanks to my advisor and all the committee members!
 - *2023.05*: &nbsp;🎉🎉 Our two papers got accepted by MICCAI 2023 (one is early accepted), see you in Vancouver!
