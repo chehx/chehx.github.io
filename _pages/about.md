@@ -28,8 +28,8 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
-<!-- - *2023.11*: &nbsp;🎉🎉 Our paper was accepted by Nature Medicine and it will be published soon! -->
-- *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon! Thanks for all the co-authors!
+- *2023.11*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2024, see you in Vancouver!
+- *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon!
 - *2023.06*: &nbsp;🎉🎉 I successfully passed my PhD qualifying examination, thanks to my advisor and all the committee members!
 - *2023.05*: &nbsp;🎉🎉 Our two papers got accepted by MICCAI 2023 (one is early accepted), see you in Vancouver!
 - *2023.03*: &nbsp;🎉🎉 Our paper got accepted by CVPR 2023, see you in Vancouver!
@@ -64,7 +64,7 @@ Thank you, Innovation and Technology Commission!
 *Pre-Print*, 2023. 
 | [Paper] -->
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
-*Pre-Print*, 2023. 
+*The 38th AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024. 
 | [[Paper](https://arxiv.org/abs/2308.12604)]
 - Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. 
