@@ -64,9 +64,9 @@ Thank you, Innovation and Technology Commission!
 *Pre-Print*, 2023. 
 | [Paper] -->
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
-*The 38th AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024. 
+*The AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024. 
 (Acceptance rate: 23.75%)
-| [[Paper](https://arxiv.org/abs/2308.12604)]
+| [[Paper](https://arxiv.org/abs/2308.12604)] [Code]
 - Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. 
 (Acceptance rate: 32.0%)
