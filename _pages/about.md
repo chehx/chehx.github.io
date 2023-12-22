@@ -123,9 +123,9 @@ Thank you, Innovation and Technology Commission!
 ## Mentee
 - *2023.07 - 2023.12 (present)*, Lingqi Zeng (UG @ HKUST)
 - *2023.06 - 2023.12 (present)*, Hoi-Tin Wong (UG @ HKUST)
-- *2023.02 - 2023.12 (present)*, Yifei Wu (UG @ NWPU, current position: M.S. in NWPU)
+- *2023.02 - 2023.12 (present)*, Yifei Wu (M.S. in NWPU)
 - *2022.06 - 2023.12 (present)*, Yuhan Cheng (UG @ HKUST)
-- *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, current position: Ph.D. in HKUST)
+- *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, next position: Ph.D. in HKUST)
 
 # 💬 Grants
 - *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
