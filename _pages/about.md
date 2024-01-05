@@ -114,6 +114,7 @@ Thank you, Innovation and Technology Commission!
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - IEEE Transactions on Image Processing (TIP)
 - Competition and Workshop Organization:
   - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (within MICCAI 22)
 
