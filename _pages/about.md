@@ -87,7 +87,7 @@ Thank you, Innovation and Technology Commission!
 (Early accepted with rate of top 13.6%, MICCAI Travel Award)
 | [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
 - Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
-*IEEE Journal on Selected Areas in Communications*(**JSAC**), vol. 39, no. 12, pp. 3805-3820, 2021. 
+*IEEE Journal on Selected Areas in Communications* (**JSAC**), vol. 39, no. 12, pp. 3805-3820, 2021. 
 (IF: 13.081)
 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9565851)]
 - Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
