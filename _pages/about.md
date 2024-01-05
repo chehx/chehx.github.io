@@ -63,6 +63,9 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
+- Ling Dai, Bin Sheng, …, **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. Nature Medicine, 2024. 
+| [[Paper](https://doi.org/10.1038/s41591-023-02742-5)] [[Code](https://github.com/drpredict/DeepDR_Plus)]
+(Impact Factor: 87.244)
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
 *The AAAI Conference on Artificial Intelligence (**AAAI**)*, 2024. 
 (Acceptance rate: 23.75%)
@@ -85,7 +88,7 @@ Thank you, Innovation and Technology Commission!
 | [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
 - Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
 *IEEE Journal on Selected Areas in Communications*(**JSAC**), vol. 39, no. 12, pp. 3805-3820, 2021. 
-(IF: 13.081)
+(Impact Factor: 13.081)
 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9565851)]
 - Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
