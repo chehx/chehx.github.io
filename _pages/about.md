@@ -40,7 +40,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 Thank you, Innovation and Technology Commission!
 - *2021.10*: &nbsp;🎉🎉 Our paper got accepted by IEEE JSAC!
 
-# 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)] *(† indicates equal contributions)*
+# 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)] *(† indicates co-first author)*
  
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -93,7 +93,7 @@ Thank you, Innovation and Technology Commission!
 - Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
 | [[Google Patent](https://patents.google.com/patent/CN110070121A/zh?oq=CN110070121A)]
-- Yuandong Li<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Xinyu Hou<sup>†</sup>. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
+- Yuandong Li, **Haoxuan Che**<sup>†</sup>, Xinyu Hou. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
 *Chinese Journal of Engineering Mathematics*, vol. 34, supp. 1, pp. 125-130, 2017.
 
 # 🎖 Selected Honors and Awards
