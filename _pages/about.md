@@ -64,6 +64,8 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
+- Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**,  ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. Patterns, 2024. 
+(IF: 6.5) | [Paper] [Code]
 - Ling Dai, Bin Sheng, …, **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. Nature Medicine, 2024. 
 (IF: 87.244)
 | [[Paper](https://doi.org/10.1038/s41591-023-02742-5)] [[Code](https://github.com/drpredict/DeepDR_Plus)]
