@@ -118,6 +118,7 @@ Thank you, Innovation and Technology Commission!
 - Conference Program Committee Member: 
   - AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+  - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Image Processing (TIP)
