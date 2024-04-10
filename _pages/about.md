@@ -59,11 +59,12 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Haibo Jin<sup>†</sup>, Yi, Lin, Hao Chen. FedGMRG: Federated Learning for Generalizable Medical Report Generation. 
 *Pre-Print*, 2023. 
 | [Paper]
-- Haibo Jin<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. *Pre-Print*, 2023. 
-| [Paper]
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
+- Haibo Jin<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
+*Pre-Print*, 2024. 
+| [[Paper](https://arxiv.org/abs/2404.04556)]
 - Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**, ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images.
 *Patterns*, 2024. 
 (IF: 6.5) 
@@ -132,8 +133,8 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.02 - 2024.03 (present)*, Yifei Wu (M.S. @ NWPU)
-- *2022.06 - 2024.03 (present)*, Yuhan Cheng (UG @ HKUST)
+- *2023.02 - 2024.04 (present)*, Yifei Wu (M.S. @ NWPU)
+- *2022.06 - 2024.04 (present)*, Yuhan Cheng (UG @ HKUST)
 - *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
 - *2023.06 - 2024.02*, Hoi-Tin Wong (UG @ HKUST)
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, next position: Ph.D. in HKUST)
