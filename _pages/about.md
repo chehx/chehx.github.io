@@ -123,6 +123,7 @@ Thank you, Innovation and Technology Commission!
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Image Processing (TIP)
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Competition and Workshop Organization:
   - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (within MICCAI 22)
 
