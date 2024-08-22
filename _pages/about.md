@@ -138,7 +138,7 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.10 - 2024.08* (present), Kai Syun Hou (UG @ HKUST, next position: M.Ph. in HKUST)
+- *2023.08 - 2024.08* (present), Kai Syun Hou (UG @ HKUST, next position: M.Ph. in HKUST)
 - *2023.02 - 2024.05*, Yifei Wu (M.S. @ NWPU)
 - *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST)
 - *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
