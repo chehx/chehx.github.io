@@ -28,6 +28,8 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE Transactions on Image Processing and will be published soon!
+- *2024.05*: &nbsp;🎉🎉 Our paper got accepted by MICCAI 2024, see you in Marrakesh!
 - *2024.01*: &nbsp;🎉🎉 Our paper got accepted by Patterns and will be published soon!
 - *2023.12*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2024, see you in Vancouver!
 - *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon!
@@ -41,7 +43,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 Thank you, Innovation and Technology Commission!
 - *2021.10*: &nbsp;🎉🎉 Our paper got accepted by IEEE JSAC!
 
-# 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)] *(† indicates co-first author)*
+# 📝 Selected Publications | [[Full List](https://scholar.google.com/citations?user=rCvK7tcAAAAJ&hl)] *(† indicates co/student-first author)*
  
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -62,9 +64,10 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
-- Haibo Jin<sup>†</sup>, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
-*Pre-Print*, 2024. 
-| [[Paper](https://arxiv.org/abs/2404.04556)]
+- Haibo Jin, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
+*Aceepted by IEEE Transactions on Image Processing*, 2024. 
+(IF:10.8)
+| [[Paper](https://arxiv.org/abs/2404.04556)] [[code]()]
 - Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**, ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images.
 *Patterns*, 2024. 
 (IF: 6.5) 
@@ -93,11 +96,11 @@ Thank you, Innovation and Technology Commission!
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. 
 (Early accepted with rate of top 13.6%, MICCAI Travel Award)
 | [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
-- Peng Sun, **Haoxuan Che**, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
+- Peng Sun, **Haoxuan Che**<sup>†</sup>, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
 *IEEE Journal on Selected Areas in Communications* (**JSAC**), vol. 39, no. 12, pp. 3805-3820, 2021. 
 (IF: 13.081)
 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9565851)]
-- Feiping Nie, **Haoxuan Che**, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
+- Feiping Nie, **Haoxuan Che**<sup>†</sup>, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
 | [[Google Patent](https://patents.google.com/patent/CN110070121A/zh?oq=CN110070121A)]
 - Yuandong Li, **Haoxuan Che**<sup>†</sup>, Xinyu Hou. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
@@ -124,6 +127,7 @@ Thank you, Innovation and Technology Commission!
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - IEEE Transactions on Medical Imaging (TMI)
 - Competition and Workshop Organization:
   - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (within MICCAI 22)
 
@@ -134,8 +138,9 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.02 - 2024.04 (present)*, Yifei Wu (M.S. @ NWPU)
-- *2022.06 - 2024.04 (present)*, Yuhan Cheng (UG @ HKUST)
+<!-- - *2023.02 - 2024.05*, Yifei Wu (UG @ HKUST, next position: M.Ph. in HKUST) -->
+- *2023.02 - 2024.05*, Yifei Wu (M.S. @ NWPU)
+- *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST)
 - *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
 - *2023.06 - 2024.02*, Hoi-Tin Wong (UG @ HKUST)
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, next position: Ph.D. in HKUST)
