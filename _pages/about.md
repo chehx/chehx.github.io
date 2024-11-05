@@ -64,10 +64,14 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
+- **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
+*Pre-Print*, 2024. 
+| [[Paper](https://arxiv.org/abs/2411.00769)] [[Code](https://github.com/GameGen-X/GameGen-X)] 
+[[Project](https://gamegen-x.github.io/)]
 - Haibo Jin, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
 *Aceepted by IEEE Transactions on Image Processing*, 2024. 
 (IF:10.8)
-| [[Paper](https://arxiv.org/abs/2404.04556)] [[code]()]
+| [[Paper](https://arxiv.org/abs/2404.04556)] [[Code](https://github.com/jhb86253817/STLD)] 
 - Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**, ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images.
 *Patterns*, 2024. 
 (IF: 6.5) 
@@ -138,8 +142,8 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.08 - 2024.08* (present), Kai Syun Hou (UG @ HKUST, next position: M.Ph. in HKUST)
-- *2023.02 - 2024.05*, Yifei Wu (M.S. @ NWPU)
+- *2023.08 - 2024.11* (present), Kai Syun Hou (UG @ HKUST, next position: M.Ph. in HKUST)
+- *2023.02 - 2024.11* (present), Yifei Wu (M.S. @ NWPU)
 - *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST)
 - *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
 - *2023.06 - 2024.02*, Hoi-Tin Wong (UG @ HKUST)
