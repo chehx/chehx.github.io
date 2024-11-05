@@ -28,8 +28,10 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 I have started researching interactive video generation at Kling Team, Kuaishou!
 - *2024.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE Transactions on Image Processing and will be published soon!
 - *2024.05*: &nbsp;🎉🎉 Our paper got accepted by MICCAI 2024, see you in Marrakesh!
+- *2024.05*: &nbsp;🎉🎉 I have started my research internship at Tencent!
 - *2024.01*: &nbsp;🎉🎉 Our paper got accepted by Patterns and will be published soon!
 - *2023.12*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2024, see you in Vancouver!
 - *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon!
@@ -67,7 +69,7 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
 *Pre-Print*, 2024. 
 | [[Paper](https://arxiv.org/abs/2411.00769)] [[Code](https://github.com/GameGen-X/GameGen-X)] 
-[[Project](https://gamegen-x.github.io/)]
+[[Project Page](https://gamegen-x.github.io/)]
 - Haibo Jin, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
 *Aceepted by IEEE Transactions on Image Processing*, 2024. 
 (IF:10.8)
@@ -142,7 +144,7 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.08 - 2024.11* (present), Kai Syun Hou (UG @ HKUST, next position: M.Ph. in HKUST)
+- *2023.08 - 2024.11* (present), Kai Syun Hou (M.Ph. in HKUST)
 - *2023.02 - 2024.11* (present), Yifei Wu (M.S. @ NWPU)
 - *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST)
 - *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
@@ -152,9 +154,9 @@ Thank you, Innovation and Technology Commission!
 # 💬 Grants
 - *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
 
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
 <!-- #  💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
