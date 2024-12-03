@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My primary research interests lie in computer vision, medical image analysis, and trustworthy artificial intelligence.
+I am pursuing my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST). My primary research interests lie in computer vision, world model, neural game engine, and trustworthy artificial intelligence.
 
 Prior to joining HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor, and obtained a Bachelor’s degree in Software Engineering from the School of Software and Microelectronics.
 Throughout my undergraduate studies, I was honored to receive several prestigious awards and recognitions, including the China National Scholarship.
@@ -28,6 +28,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+- *2021.10*: &nbsp;🎉🎉 Our paper got accepted by IEEE JBHI!
 - *2024.11*: &nbsp;🎉🎉 I have started researching interactive video generation at Kling Team, Kuaishou!
 - *2024.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE Transactions on Image Processing and will be published soon!
 - *2024.05*: &nbsp;🎉🎉 Our paper got accepted by MICCAI 2024, see you in Marrakesh!
@@ -66,6 +67,9 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
+- **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
+*Aceepted by IEEE Journal of Biomedical and Health Informatics*, 2024. 
+| [[Paper](https://arxiv.org/abs/2309.17269)]
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
 *Pre-Print*, 2024. 
 | [[Paper](https://arxiv.org/abs/2411.00769)] [[Code](https://github.com/GameGen-X/GameGen-X)] 
@@ -120,14 +124,14 @@ Thank you, Innovation and Technology Commission!
 - The First Prize and Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230 (*2017.04*)
 
 # 📖 Educations
-- *2021.08 - 2023.12 (present)*, Ph.D. Candidate, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
+- *2021.08 - present*, Ph.D. Candidate, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
 - *2015.09 - 2019.06*, Undergraduate, School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an.
 - *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an.
 
 # 💻 Professional Service
 - Conference Program Committee Member: 
-  - AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+  - AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024, 2025
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
   - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024
 - Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -144,9 +148,9 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.08 - 2024.11* (present), Kai Syun Hou (M.Ph. in HKUST)
-- *2023.02 - 2024.11* (present), Yifei Wu (M.S. @ NWPU)
-- *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST)
+- *2023.08 - present*, Kai Syun Hou (M.Ph. in HKUST)
+- *2023.02 - present*, Yifei Wu (M.S. @ NWPU)
+- *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST, next position: M.Ph. in HKUST(GZ))
 - *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
 - *2023.06 - 2024.02*, Hoi-Tin Wong (UG @ HKUST)
 - *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, next position: Ph.D. in HKUST)
@@ -154,8 +158,9 @@ Thank you, Innovation and Technology Commission!
 # 💬 Grants
 - *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💼 Internships
+<!-- - *2024.11 - present*, Research Intern, Kling Team, Kuaishou(Kwai), China.
+- *2024.05 - 2024.10*, Research Intern, Tencent, China. -->
 
 <!-- #  💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
