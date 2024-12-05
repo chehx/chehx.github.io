@@ -67,7 +67,8 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2023. 
 | [Paper] -->
-- **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
+
+- Weiwen Zhang, Dawei Yang, **Haoxuan Che**, An Ran Ran, Carol Y. Cheung, Hao Chen Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
 *Aceepted by IEEE Journal of Biomedical and Health Informatics*, 2024. 
 | [[Paper](https://arxiv.org/abs/2309.17269)]
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
