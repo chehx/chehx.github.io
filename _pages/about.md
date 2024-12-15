@@ -160,8 +160,8 @@ Thank you, Innovation and Technology Commission!
 - *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
 
 # 💼 Internships
-<!-- - *2024.11 - present*, Research Intern, Kling Team, Kuaishou(Kwai), China.
-- *2024.05 - 2024.10*, Research Intern, Tencent, China. -->
+- *2024.11 - present*, Research Intern, Kling Team, Kuaishou(Kwai), China.
+- *2024.05 - 2024.10*, Research Intern, Tencent, China.
 
 <!-- #  💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
