@@ -32,7 +32,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 - *2024.11*: &nbsp;🎉🎉 I have started researching interactive video generation at Kling Team, Kuaishou!
 - *2024.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE Transactions on Image Processing and will be published soon!
 - *2024.05*: &nbsp;🎉🎉 Our paper got accepted by MICCAI 2024, see you in Marrakesh!
-- *2024.05*: &nbsp;🎉🎉 I have started my research internship at Tencent!
+<!-- - *2024.05*: &nbsp;🎉🎉 I have started my research internship at Tencent! -->
 - *2024.01*: &nbsp;🎉🎉 Our paper got accepted by Patterns and will be published soon!
 - *2023.12*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2024, see you in Vancouver!
 - *2023.11*: &nbsp;🎉🎉 Our paper got accepted by Nature Medicine and will be published soon!
@@ -161,7 +161,7 @@ Thank you, Innovation and Technology Commission!
 
 # 💼 Internships
 - *2024.11 - present*, Research Intern, Kling Team, Kuaishou(Kwai), China.
-- *2024.05 - 2024.10*, Research Intern, Tencent, China.
+<!-- - *2024.05 - 2024.10*, Research Intern, Tencent, China. -->
 
 <!-- #  💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
