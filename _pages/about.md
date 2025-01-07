@@ -124,10 +124,10 @@ Thank you, Innovation and Technology Commission!
 - The Excellent Paper Award for the National College Students Mathematics Modeling Competition, 12/33062 (*2017.11*)
 - The First Prize and Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230 (*2017.04*)
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2021.08 - present*, Ph.D. Candidate, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
 - *2015.09 - 2019.06*, Undergraduate, School of Software and Microelectronics, Northwestern Polytechnical University, Xi'an.
-- *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an.
+- *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an. -->
 
 # 💻 Professional Service
 - Conference Program Committee Member: 
