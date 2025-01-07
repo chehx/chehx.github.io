@@ -118,11 +118,11 @@ Thank you, Innovation and Technology Commission!
 *Chinese Journal of Engineering Mathematics*, vol. 34, supp. 1, pp. 125-130, 2017.
 
 # 🎖 Selected Honors and Awards
-- The Honor of Outstanding Graduate at Northwestern Polytechnical University, Top 5% (*2019.06*)
-- The China National Scholarship, Top 2% (*2016-2017*, *2017-2018*)
-- The First Prize in the National College Students Mathematics Modeling Competition, Top 0.88% (*2017.11*)
-- The Excellent Paper Award for the National College Students Mathematics Modeling Competition, 12/33062 (*2017.11*)
-- The First Prize and Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230 (*2017.04*)
+- The Honor of Outstanding Graduate at Northwestern Polytechnical University, Top 5%
+- The China National Scholarship for two years, Top 2%
+- The First Prize in the National College Students Mathematics Modeling Competition, Top 0.88%
+- The Excellent Paper Award for the National College Students Mathematics Modeling Competition, 12/33062
+- The First Prize and Application Innovation Award in the ASC17 Student Supercomputer Challenge, 1/230
 
 <!-- # 📖 Educations
 - *2021.08 - present*, Ph.D. Candidate, School of Engineering, Hong Kong University of Science and Technology, Hong Kong SAR. 
