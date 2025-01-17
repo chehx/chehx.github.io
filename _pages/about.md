@@ -130,15 +130,16 @@ Thank you, Innovation and Technology Commission!
 - *2012.09 - 2015.06*, Studet, Xi'an Qujiang No.1 Middle School, Xi'an. -->
 
 # 💻 Professional Service
-- Conference Program Committee Member: 
-  - AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024, 2025
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 2025
-  - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024
-- Journal Reviewer:
+- Regular Conference Program Committee Member: 
+  - AAAI Conference on Artificial Intelligence (AAAI)
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+- Regular Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - IEEE Transactions on Medical Imaging (TMI)
+  - Information Fusion
 - Competition and Workshop Organization:
   - [DRAC 2022: Diabetic Retinopathy Analysis Challenge.](https://drac22.grand-challenge.org) (within MICCAI 22)
 
