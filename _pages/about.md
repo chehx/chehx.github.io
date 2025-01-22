@@ -28,6 +28,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper got accepted by ICLR 2025, see you in Singapore!
 - *2024.12*: &nbsp;🎉🎉 Our paper got accepted by IEEE JBHI!
 - *2024.11*: &nbsp;🎉🎉 I have started researching interactive video generation at Kling Team, Kuaishou!
 - *2024.08*: &nbsp;🎉🎉 Our paper got accepted by IEEE Transactions on Image Processing and will be published soon!
