@@ -64,18 +64,18 @@ Thank you, Innovation and Technology Commission!
 <!-- 
 - **Haoxuan Che**<sup>†</sup>, Haibo Jin<sup>†</sup>, Yi, Lin, Hao Chen. FedGMRG: Federated Learning for Generalizable Medical Report Generation. 
 *Pre-Print*, 2023. 
-| [Paper]
-- **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedNDG: Federated Novel Domain Generation Towards Generalizable Medical Image Analysis. 
-*Pre-Print*, 2023. 
 | [Paper] -->
-
+- **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
+*Pre-Print*, 2025. 
+| [Paper]
+- **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
+*The Thirteenth International Conference on Learning Representations* (**ICLR**), 2025. 
+(Acceptance rate: 32.08%)
+| [[Paper](https://arxiv.org/abs/2411.00769)] [[Code](https://github.com/GameGen-X/GameGen-X)] 
+[[Project Page](https://gamegen-x.github.io/)]
 - Weiwen Zhang, Dawei Yang, **Haoxuan Che**, An Ran Ran, Carol Y. Cheung, Hao Chen Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
 *Aceepted by IEEE Journal of Biomedical and Health Informatics*, 2024. 
 | [[Paper](https://arxiv.org/abs/2309.17269)]
-- **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
-*Pre-Print*, 2024. 
-| [[Paper](https://arxiv.org/abs/2411.00769)] [[Code](https://github.com/GameGen-X/GameGen-X)] 
-[[Project Page](https://gamegen-x.github.io/)]
 - Haibo Jin, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
 *Aceepted by IEEE Transactions on Image Processing*, 2024. 
 (IF:10.8)
