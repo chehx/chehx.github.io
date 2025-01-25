@@ -65,7 +65,7 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Haibo Jin<sup>†</sup>, Yi, Lin, Hao Chen. FedGMRG: Federated Learning for Generalizable Medical Report Generation. 
 *Pre-Print*, 2023. 
 | [Paper] -->
-- **Haoxuan Che**<sup>†</sup>, Yifei Wu<sup>†</sup>, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
+- **Haoxuan Che**, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2025. 
 | [Paper]
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
