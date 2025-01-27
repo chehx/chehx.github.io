@@ -67,7 +67,7 @@ Thank you, Innovation and Technology Commission!
 | [Paper] -->
 - **Haoxuan Che**, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
 *Pre-Print*, 2025. 
-| [Paper]
+| [[Paper](https://arxiv.org/abs/2501.13967)]
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
 *The Thirteenth International Conference on Learning Representations* (**ICLR**), 2025. 
 (Acceptance rate: 32.08%)
