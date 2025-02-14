@@ -134,6 +134,7 @@ Thank you, Innovation and Technology Commission!
 - Regular Conference Program Committee Member: 
   - AAAI Conference on Artificial Intelligence (AAAI)
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  - International Conference on Computer Vision (ICCV)
   - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 - Regular Journal Reviewer:
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
