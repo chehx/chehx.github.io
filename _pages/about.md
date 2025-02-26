@@ -147,6 +147,7 @@ Thank you, Innovation and Technology Commission!
 
 # 📚 Teaching Experience
 ## Course 
+- COMP 1001 Exploring Multimedia and Internet Computing, Teaching Assisstant, 2024-2025 Spring Semester.
 - COMP 3321 Fundamentals of Artificial Intelligence, Teaching Assisstant, 2023-2024 Fall Semester.
 - COMP 4421 Image Processing, Teaching Assisstant, 2022-2023 Fall Semester.
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
