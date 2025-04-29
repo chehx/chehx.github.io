@@ -71,7 +71,7 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
 *The Thirteenth International Conference on Learning Representations* (**ICLR**), 2025. 
 (Acceptance rate: 32.08%)
-| [[Paper](https://arxiv.org/abs/2411.00769)] [[Code](https://github.com/GameGen-X/GameGen-X)] 
+| [[Paper](https://arxiv.org/abs/2411.00769)] [[Github](https://github.com/GameGen-X/GameGen-X)] 
 [[Project Page](https://gamegen-x.github.io/)]
 - Weiwen Zhang, Dawei Yang, **Haoxuan Che**, An Ran Ran, Carol Y. Cheung, Hao Chen Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
 *Aceepted by IEEE Journal of Biomedical and Health Informatics*, 2024. 
@@ -79,7 +79,7 @@ Thank you, Innovation and Technology Commission!
 - Haibo Jin, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
 *Aceepted by IEEE Transactions on Image Processing*, 2024. 
 (IF:10.8)
-| [[Paper](https://arxiv.org/abs/2404.04556)] [[Code](https://github.com/jhb86253817/STLD)] 
+| [[Paper](https://arxiv.org/abs/2404.04556)] [[Github](https://github.com/jhb86253817/STLD)] 
 - Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**, ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images.
 *Patterns*, 2024. 
 (IF: 6.5) 
@@ -87,27 +87,27 @@ Thank you, Innovation and Technology Commission!
 - Ling Dai, Bin Sheng, ..., **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. 
 *Nature Medicine*, 2024. 
 (IF: 87.244)
-| [[Paper](https://doi.org/10.1038/s41591-023-02742-5)] [[Code](https://github.com/drpredict/DeepDR_Plus)]
+| [[Paper](https://doi.org/10.1038/s41591-023-02742-5)] [[Github](https://github.com/drpredict/DeepDR_Plus)]
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
 *The AAAI Conference on Artificial Intelligence* (**AAAI**), 2024. 
 (Acceptance rate: 23.75%)
-| [[Paper](https://arxiv.org/abs/2308.12604)] [[Code](https://github.com/jhb86253817/PromptMRG)]
+| [[Paper](https://arxiv.org/abs/2308.12604)] [[Github](https://github.com/jhb86253817/PromptMRG)]
 - Haibo Jin, **Haoxuan Che**, Hao Chen. Unsupervised Domain Adaptation for Anatomical Landmark Detection. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. 
 (Acceptance rate: 32.0%)
-| [[Paper](https://arxiv.org/abs/2308.13286)] [[Code](https://github.com/jhb86253817/uda_med_landmark)]
+| [[Paper](https://arxiv.org/abs/2308.13286)] [[Github](https://github.com/jhb86253817/uda_med_landmark)]
 - **Haoxuan Che**, Yuhan Cheng, Haibo Jin, Hao Chen. Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. 
 (Early accepted with rate of top 14%)
-| [[Paper](https://arxiv.org/abs/2307.04378)] [[Code](https://github.com/chehx/DGDR)]
+| [[Paper](https://arxiv.org/abs/2307.04378)] [[Github](https://github.com/chehx/DGDR)]
 - **Haoxuan Che**, Siyu Chen, Hao Chen. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding. 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2023.
 (Acceptance rate: 25.78%)
-| [[Paper](https://arxiv.org/abs/2303.15038)] [[Code](https://github.com/chehx/MKCNet)]
+| [[Paper](https://arxiv.org/abs/2303.15038)] [[Github](https://github.com/chehx/MKCNet)]
 - **Haoxuan Che**, Haibo Jin, Hao Chen. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement. 
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. 
 (Early accepted with rate of top 13.6%, MICCAI Travel Award)
-| [[Paper](https://arxiv.org/abs/2207.04183)] [Code]
+| [[Paper](https://arxiv.org/abs/2207.04183)]
 - Peng Sun, **Haoxuan Che**<sup>†</sup>, Zhibo Wang, Yuwei Wang, Tao Wang, Liantao Wu, and Huajie Shao. Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning. 
 *IEEE Journal on Selected Areas in Communications* (**JSAC**), vol. 39, no. 12, pp. 3805-3820, 2021. 
 (IF: 13.081)
