@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoxuan Che"
+title                    : "Dr. Haoxuan Che"
 description              : "Interested in Neural Game Engine, World Model and Trustworthy AI"
 repository               : "chehx.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoxuan Che"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Candidate @ HKUST"
+  bio              : "Independent Researcher"
   location         : "Mars, Universe"
   employer         :
   pubmed           : 
