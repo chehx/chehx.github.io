@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My primary research interests lie in computer vision, world model, neural game engine, and trustworthy artificial intelligence.
-
+I am currently a Senior Researcher at Huawei Noah’s Ark Lab, Huawei Hong Kong Research Center. 
 Previously, I obtained my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST).
 Prior to joining HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor, and obtained a Bachelor’s degree in Software Engineering from the School of Software and Microelectronics.
-Throughout my undergraduate studies, I was honored to receive several prestigious awards and recognitions, including the China National Scholarship.
+
+Recently, my primary research interests lie in computer vision, world model, multi-modal generative model, and AI agents.
+
+Our team at Huawei HKRC is dedicated to advancing research in Multimodal Generative Models and AI Agents. We are actively seeking experienced full-time researchers and interns to join us. If you're interested, feel free to reach out via email.
 
 <!-- Honestly, I have chance to work with some great researchers as Prof.Feiping Nie, Prof. Xuelong Li and Prof. Wei Zheng in the field of machine learning. -->
 
@@ -29,6 +31,7 @@ Throughout my undergraduate studies, I was honored to receive several prestigiou
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
 - *2025.05*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense, thanks to my advisor and all the committee members!
 - *2025.01*: &nbsp;🎉🎉 Our paper got accepted by ICLR 2025, see you in Singapore!
 - *2024.12*: &nbsp;🎉🎉 Our paper got accepted by IEEE JBHI!
@@ -67,8 +70,11 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Haibo Jin<sup>†</sup>, Yi, Lin, Hao Chen. FedGMRG: Federated Learning for Generalizable Medical Report Generation. 
 *Pre-Print*, 2023. 
 | [Paper] -->
+- **Haoxuan Che**, Haibo Jin, Zhengrui Guo, Yi Lin, Cheng Jin, Hao Chen. LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning. 
+*Pre-print*, 2025. 
+| [[Paper](https://arxiv.org/pdf/2506.17562)]
 - **Haoxuan Che**, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
-*Pre-Print*, 2025. 
+*Aceepted by IEEE Transactions on Medical Imaging*, 2025. 
 | [[Paper](https://arxiv.org/abs/2501.13967)]
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
 *The Thirteenth International Conference on Learning Representations* (**ICLR**), 2025. 
@@ -155,18 +161,23 @@ Thank you, Innovation and Technology Commission!
 - COMP 4451 Game Programming, Teaching Assisstant, 2021-2022 Spring Semester.
 
 ## Mentee
-- *2023.02 - present*, Yifei Wu (M.S. @ NWPU)
-- *2023.08 - 2025.02*, Kai Syun Hou (M.Ph. in HKUST)
-- *2022.06 - 2024.05*, Yuhan Cheng (UG @ HKUST, next position: M.Ph. in HKUST(GZ))
-- *2023.07 - 2024.02*, Lingqi Zeng (UG @ HKUST)
-- *2023.06 - 2024.02*, Hoi-Tin Wong (UG @ HKUST)
-- *2021.11 - 2023.01*, Siyu Chen (UG @ HKUST, next position: Ph.D. in HKUST)
+- *2025.06 - present*, Meng Chu (Ph.D. Candidate @ HKUST)
+- *2025.06 - present*, Zhefan Rao (Ph.D. Candidate @ HKUST)
+- *2025.05 - present*, Zhaoqing Li (Ph.D. Candidate @ CUHK)
+- *2025.05 - present*, Jingran Su (Ph.D. Candidate @ PloyU)
+- *2023.02 - 2025.06*, Yifei Wu (M.S. Student @ NWPU)
+- *2023.08 - 2025.02*, Kai Syun Hou (M.Ph. Student in HKUST)
+- *2022.06 - 2024.05*, Yuhan Cheng (UG Student @ HKUST, next position: M.Ph. Student in HKUST(GZ))
+- *2023.07 - 2024.02*, Lingqi Zeng (UG Student @ HKUST)
+- *2023.06 - 2024.02*, Hoi-Tin Wong (UG Student @ HKUST)
+- *2021.11 - 2023.01*, Siyu Chen (UG Student @ HKUST, next position: Ph.D. Student in HKUST)
 
 # 💬 Grants
 - *2022.03 - 2024.03*, [Technology Start-up Support Scheme for Universities](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=TSSSU/HKUST/22/03), The Innovation and Technology Commission (ITC) of the Hong Kong SAR.
 
 # 💼 Internships
-- *2024.11 - present*, Research Intern, Kling Team, Kuaishou(Kwai), China.
+- *2025.03 - 2025.06*, Research Intern, Seed Team, ByteDance, China.
+- *2024.11 - 2025.03*, Research Intern, Kling Team, Kuaishou(Kwai), China.
 - *2024.05 - 2024.10*, Research Intern, Tencent, China.
 
 <!-- #  💬 Invited Talks
