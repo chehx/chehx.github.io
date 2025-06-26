@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Senior Researcher at Huawei Noah’s Ark Lab, Huawei Hong Kong Research Center. 
 Previously, I obtained my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST).
-Prior to joining HKUST, I graduated from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor, and obtained a Bachelor’s degree in Software Engineering from the School of Software and Microelectronics.
+Prior to joining HKUST, I obtained a Bachelor’s degree from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor.
 
 Recently, my primary research interests lie in computer vision, world model, multi-modal generative model, and AI agents.
 
