@@ -31,7 +31,7 @@ Our team at Huawei HKRC is dedicated to advancing research in Multimodal Generat
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
+- *2025.06*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
 - *2025.05*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense, thanks to my advisor and all the committee members!
 - *2025.01*: &nbsp;🎉🎉 Our paper got accepted by ICLR 2025, see you in Singapore!
 - *2024.12*: &nbsp;🎉🎉 Our paper got accepted by IEEE JBHI!
