@@ -31,7 +31,7 @@ Our team at Huawei HKRC is dedicated to advancing research in Multimodal Generat
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
+- *2025.06*: &nbsp;🎉🎉 Two papers got accepted by IEEE TMI!
 - *2025.05*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense, thanks to my advisor and all the committee members!
 - *2025.01*: &nbsp;🎉🎉 Our paper got accepted by ICLR 2025, see you in Singapore!
 - *2024.12*: &nbsp;🎉🎉 Our paper got accepted by IEEE JBHI!
@@ -73,6 +73,9 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**, Haibo Jin, Zhengrui Guo, Yi Lin, Cheng Jin, Hao Chen. LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning. 
 *Pre-print*, 2025. 
 | [[Paper](https://arxiv.org/pdf/2506.17562)]
+- Haibo Jin, **Haoxuan Che**, Sunan He, Hao Chen. Chain of Diagnosis for Accurate and Explainable Radiology Report Generation.
+*Aceepted by IEEE Transactions on Medical Imaging*, 2025. 
+| [[Paper]()]
 - **Haoxuan Che**, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
 *Aceepted by IEEE Transactions on Medical Imaging*, 2025. 
 | [[Paper](https://arxiv.org/abs/2501.13967)]
@@ -123,8 +126,8 @@ Thank you, Innovation and Technology Commission!
 - Feiping Nie, **Haoxuan Che**<sup>†</sup>, Hong Wang, Rong Wang, Zhongwei Yu, Xuelong Li. A kind of fast approximate k nearest neighbor method based on tree strategy with balance K mean cluster. 
 *CN Patent No. CN110070121A*. Date of application: Apr. 15th, 2019, Date of granted: Aug. 10th, 2021, Date of expiration: Apr. 15th, 2039.
 | [[Google Patent](https://patents.google.com/patent/CN110070121A/zh?oq=CN110070121A)]
-- Yuandong Li, **Haoxuan Che**<sup>†</sup>, Xinyu Hou. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
-*Chinese Journal of Engineering Mathematics*, vol. 34, supp. 1, pp. 125-130, 2017.
+<!-- - Yuandong Li, **Haoxuan Che**<sup>†</sup>, Xinyu Hou. Task-pricing Program of "Photo Shoot Proﬁt" Based on Game Theory. 
+*Chinese Journal of Engineering Mathematics*, vol. 34, supp. 1, pp. 125-130, 2017. -->
 
 # 🎖 Selected Honors and Awards
 - The Honor of Outstanding Graduate at Northwestern Polytechnical University, Top 5%
