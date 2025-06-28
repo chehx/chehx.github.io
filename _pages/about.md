@@ -74,10 +74,12 @@ Thank you, Innovation and Technology Commission!
 *Pre-print*, 2025. 
 | [[Paper](https://arxiv.org/pdf/2506.17562)]
 - Haibo Jin, **Haoxuan Che**, Sunan He, Hao Chen. Chain of Diagnosis for Accurate and Explainable Radiology Report Generation.
-*Aceepted by IEEE Transactions on Medical Imaging*, 2025. 
+*Aceepted by IEEE Transactions on Medical Imaging*, 2025.
+(IF: 9.8)
 | [[Paper]()]
 - **Haoxuan Che**, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen. FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis. 
 *Aceepted by IEEE Transactions on Medical Imaging*, 2025. 
+(IF: 9.8)
 | [[Paper](https://arxiv.org/abs/2501.13967)]
 - **Haoxuan Che**, Xuanhua He, Quande Liu, Cheng Jin, Hao Chen. GameGen-X: Interactive Open-world Game Video Generation.
 *The Thirteenth International Conference on Learning Representations* (**ICLR**), 2025. 
@@ -91,13 +93,13 @@ Thank you, Innovation and Technology Commission!
 *Aceepted by IEEE Transactions on Image Processing*, 2024. 
 (IF:10.8)
 | [[Paper](https://arxiv.org/abs/2404.04556)] [[Github](https://github.com/jhb86253817/STLD)] 
-- Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**, ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images.
+<!-- - Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yilan Wu, Yang Wen, **Haoxuan Che**, ..., Carol Y. Cheung, Weiping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng. DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images.
 *Patterns*, 2024. 
 (IF: 6.5) 
-| [[Paper](https://www.cell.com/patterns/pdf/S2666-3899(24)00020-5.pdf)] [[Dataset](https://drac22.grand-challenge.org)]
-- Ling Dai, Bin Sheng, ..., **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. 
+| [[Paper](https://www.cell.com/patterns/pdf/S2666-3899(24)00020-5.pdf)] [[Dataset](https://drac22.grand-challenge.org)] -->
+<!-- - Ling Dai, Bin Sheng, ..., **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. 
 *Nature Medicine*, 2024. 
-(IF: 87.244)
+(IF: 87.244) -->
 | [[Paper](https://doi.org/10.1038/s41591-023-02742-5)] [[Github](https://github.com/drpredict/DeepDR_Plus)]
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
 *The AAAI Conference on Artificial Intelligence* (**AAAI**), 2024. 
