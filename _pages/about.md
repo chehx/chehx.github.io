@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Principal Researcher at Huawei Noah’s Ark Lab, Huawei Hong Kong Research Center. 
+I am currently a Senior Researcher at Huawei Noah’s Ark Lab, Huawei Hong Kong Research Center. 
 Previously, I obtained my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST).
 Prior to joining HKUST, I obtained a Bachelor’s degree from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor.
 
