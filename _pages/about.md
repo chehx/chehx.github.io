@@ -97,9 +97,9 @@ Thank you, Innovation and Technology Commission!
 *Patterns*, 2024. 
 (IF: 6.5) 
 | [[Paper](https://www.cell.com/patterns/pdf/S2666-3899(24)00020-5.pdf)] [[Dataset](https://drac22.grand-challenge.org)] -->
-<!-- - Ling Dai, Bin Sheng, ..., **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. 
+- Ling Dai, Bin Sheng, ..., **Haoxuan Che**, Hao Chen, ..., Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong, Weiping Jia. A deep learning system for predicting time to progression of diabetic retinopathy. 
 *Nature Medicine*, 2024. 
-(IF: 87.244) -->
+(IF: 87.244)
 | [[Paper](https://doi.org/10.1038/s41591-023-02742-5)] [[Github](https://github.com/drpredict/DeepDR_Plus)]
 - Haibo Jin, **Haoxuan Che**, Yi Lin, Hao Chen. PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation. 
 *The AAAI Conference on Artificial Intelligence* (**AAAI**), 2024. 
