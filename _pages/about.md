@@ -86,7 +86,7 @@ Thank you, Innovation and Technology Commission!
 (Acceptance rate: 32.08%)
 | [[Paper](https://arxiv.org/abs/2411.00769)] [[Github](https://github.com/GameGen-X/GameGen-X)] 
 [[Project Page](https://gamegen-x.github.io/)]
-- Weiwen Zhang, Dawei Yang, **Haoxuan Che**, An Ran Ran, Carol Y. Cheung, Hao Chen Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
+- Weiwen Zhang, Dawei Yang, **Haoxuan Che**, An Ran Ran, Carol Y. Cheung, Hao Chen. Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN.
 *Aceepted by IEEE Journal of Biomedical and Health Informatics*, 2024. 
 | [[Paper](https://arxiv.org/abs/2309.17269)]
 - Haibo Jin, **Haoxuan Che**<sup>†</sup>, Hao Chen. Rethinking Self-training for Semi-supervised Landmark Detection: A Selection-free Approach. 
