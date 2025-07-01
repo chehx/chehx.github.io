@@ -70,7 +70,7 @@ Thank you, Innovation and Technology Commission!
 - **Haoxuan Che**<sup>†</sup>, Haibo Jin<sup>†</sup>, Yi, Lin, Hao Chen. FedGMRG: Federated Learning for Generalizable Medical Report Generation. 
 *Pre-Print*, 2023. 
 | [Paper] -->
-- Jiwen Yu, Yiran Qin, **Haoxuan Che**, Quande Liu, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Hao Chen, Xihui Liu. A Survey of Interactive Generative Video
+- Jiwen Yu, Yiran Qin, **Haoxuan Che**<sup>†</sup>, Quande Liu, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Hao Chen, Xihui Liu. A Survey of Interactive Generative Video
 *Pre-print*, 2025. 
 | [[Paper](https://arxiv.org/pdf/2504.21853)]
 - **Haoxuan Che**, Haibo Jin, Zhengrui Guo, Yi Lin, Cheng Jin, Hao Chen. LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning. 
