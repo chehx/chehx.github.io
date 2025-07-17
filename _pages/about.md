@@ -31,6 +31,7 @@ Our team at Huawei HKRC is dedicated to advancing research in Multimodal Generat
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
 - *2025.06*: &nbsp;🎉🎉 Two papers got accepted by IEEE TMI!
 - *2025.05*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense, thanks to my advisor and all the committee members!
 - *2025.01*: &nbsp;🎉🎉 Our paper got accepted by ICLR 2025, see you in Singapore!
@@ -74,7 +75,8 @@ Thank you, Innovation and Technology Commission!
 *Pre-print*, 2025. 
 | [[Paper](https://arxiv.org/pdf/2504.21853)]
 - **Haoxuan Che**, Haibo Jin, Zhengrui Guo, Yi Lin, Cheng Jin, Hao Chen. LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning. 
-*Pre-print*, 2025. 
+*Aceepted by IEEE Transactions on Medical Imaging*, 2025. 
+(IF: 9.8)
 | [[Paper](https://arxiv.org/pdf/2506.17562)]
 - Haibo Jin, **Haoxuan Che**, Sunan He, Hao Chen. Chain of Diagnosis for Accurate and Explainable Radiology Report Generation.
 *Aceepted by IEEE Transactions on Medical Imaging*, 2025.
