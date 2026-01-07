@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Principal Researcher at Huawei Noah’s Ark Lab, Huawei Hong Kong Research Center. 
+I am currently a Principal Researcher at Large Model Application Lab, Huawei Hong Kong Research Center. 
 Previously, I obtained my Ph.D. in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST).
 Prior to joining HKUST, I obtained a Bachelor’s degree from [Northwestern Polytechnical University](https://en.nwpu.edu.cn) (NWPU) with honor.
 
 Recently, my primary research interests lie in computer vision, world model, multi-modal generative model, and AI agents.
 
-Our team at Huawei HKRC is dedicated to advancing research in Multimodal Generative Models and AI Agents. We are actively seeking experienced full-time researchers and interns to join us. If you're interested, feel free to reach out via email.
+Our team is dedicated to advancing research in Multimodal Generative Models and AI Agents. We are actively seeking experienced full-time researchers and interns to join us. If you're interested, feel free to reach out via email.
 
 <!-- Honestly, I have chance to work with some great researchers as Prof.Feiping Nie, Prof. Xuelong Li and Prof. Wei Zheng in the field of machine learning. -->
 
@@ -31,6 +31,7 @@ Our team at Huawei HKRC is dedicated to advancing research in Multimodal Generat
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2026!
 - *2025.07*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
 - *2025.06*: &nbsp;🎉🎉 Two papers got accepted by IEEE TMI!
 - *2025.05*: &nbsp;🎉🎉 I successfully passed my PhD thesis defense, thanks to my advisor and all the committee members!
