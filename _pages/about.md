@@ -31,6 +31,7 @@ Our team is dedicated to advancing research in Multimodal Generative Models and 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper got accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 We release Capybara, the first unified visual creation model! [[Github](https://github.com/xgen-universe/Capybara)] [[HF](https://huggingface.co/xgen-universe/Capybara)] [[Report](https://github.com/xgen-universe/Capybara/blob/main/assets/docs/tech_report.pdf)]
 - *2025.11*: &nbsp;🎉🎉 Our paper got accepted by AAAI 2026!
 - *2025.07*: &nbsp;🎉🎉 Our paper got accepted by IEEE TMI!
