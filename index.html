@@ -124,8 +124,8 @@
               <span class="paper-meta-item paper-year">2026</span>
             </div>
             <div class="btn-row">
-              <a href="https://github.com/xgen-universe/Capybara" class="btn-pill"><i class="fa-brands fa-github"></i> Github</a>
-              <a href="https://huggingface.co/xgen-universe/Capybara" class="btn-pill"><i class="fa-solid fa-database"></i> HF</a>
+              <a href="https://github.com/xgen-universe/Capybara" class="btn-pill" data-github="xgen-universe/Capybara"><i class="fa-brands fa-github"></i> Github <span class="badge-count gh-stars"></span></a>
+              <a href="https://huggingface.co/xgen-universe/Capybara" class="btn-pill" data-hf="xgen-universe/Capybara"><i class="fa-solid fa-database"></i> HF <span class="badge-count hf-likes"></span></a>
               <a href="https://github.com/xgen-universe/Capybara/blob/main/assets/docs/tech_report.pdf" class="btn-pill"><i class="fa-regular fa-file-pdf"></i> Report</a>
             </div>
           </div>
@@ -165,7 +165,7 @@
             <div class="btn-row">
               <a href="https://gamegen-x.github.io/" class="btn-pill"><i class="fa-solid fa-globe"></i> Project</a>
               <a href="https://arxiv.org/abs/2411.00769" class="btn-pill"><i class="fa-regular fa-file-pdf"></i> PDF</a>
-              <a href="https://github.com/GameGen-X/GameGen-X" class="btn-pill"><i class="fa-brands fa-github"></i> Code</a>
+              <a href="https://github.com/GameGen-X/GameGen-X" class="btn-pill" data-github="GameGen-X/GameGen-X"><i class="fa-brands fa-github"></i> Code <span class="badge-count gh-stars"></span></a>
               <a href="https://36kr.com/p/2949643749958018" target="_blank" rel="noopener" class="btn-pill"><i class="fa-solid fa-newspaper"></i> 量子位</a>
               <a href="https://news.qq.com/rain/a/20241106A04FV600" target="_blank" rel="noopener" class="btn-pill"><i class="fa-solid fa-newspaper"></i> 机器之心</a>
             </div>
@@ -203,7 +203,7 @@
             </div>
             <div class="btn-row">
               <a href="https://arxiv.org/abs/2512.15261" class="btn-pill"><i class="fa-regular fa-file-pdf"></i> PDF</a>
-              <a href="https://github.com/Gracewangyy/MMMamba" class="btn-pill"><i class="fa-brands fa-github"></i> Code</a>
+              <a href="https://github.com/Gracewangyy/MMMamba" class="btn-pill" data-github="Gracewangyy/MMMamba"><i class="fa-brands fa-github"></i> Code <span class="badge-count gh-stars"></span></a>
             </div>
           </div>
         </article>
@@ -254,7 +254,7 @@
             </div>
             <div class="btn-row">
               <a href="https://arxiv.org/abs/2404.04556" class="btn-pill"><i class="fa-regular fa-file-pdf"></i> PDF</a>
-              <a href="https://github.com/jhb86253817/STLD" class="btn-pill"><i class="fa-brands fa-github"></i> Code</a>
+              <a href="https://github.com/jhb86253817/STLD" class="btn-pill" data-github="jhb86253817/STLD"><i class="fa-brands fa-github"></i> Code <span class="badge-count gh-stars"></span></a>
             </div>
           </div>
         </article>
@@ -271,7 +271,7 @@
             </div>
             <div class="btn-row">
               <a href="https://arxiv.org/abs/2308.12604" class="btn-pill"><i class="fa-regular fa-file-pdf"></i> PDF</a>
-              <a href="https://github.com/jhb86253817/PromptMRG" class="btn-pill"><i class="fa-brands fa-github"></i> Code</a>
+              <a href="https://github.com/jhb86253817/PromptMRG" class="btn-pill" data-github="jhb86253817/PromptMRG"><i class="fa-brands fa-github"></i> Code <span class="badge-count gh-stars"></span></a>
             </div>
           </div>
         </article>
@@ -288,7 +288,7 @@
             </div>
             <div class="btn-row">
               <a href="https://arxiv.org/abs/2303.15038" class="btn-pill"><i class="fa-regular fa-file-pdf"></i> PDF</a>
-              <a href="https://github.com/chehx/MKCNet" class="btn-pill"><i class="fa-brands fa-github"></i> Code</a>
+              <a href="https://github.com/chehx/MKCNet" class="btn-pill" data-github="chehx/MKCNet"><i class="fa-brands fa-github"></i> Code <span class="badge-count gh-stars"></span></a>
             </div>
           </div>
         </article>
@@ -438,6 +438,35 @@
             currLink.addClass("active");
           }
         });
+      });
+
+      // GitHub stars & Hugging Face likes
+      $('a.btn-pill[data-github]').each(function() {
+        var $link = $(this);
+        var repo = $link.attr('data-github');
+        var $badge = $link.find('.gh-stars');
+        fetch('https://api.github.com/repos/' + repo)
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            if (data.stargazers_count != null) {
+              $badge.text('⭐ ' + data.stargazers_count);
+            }
+          })
+          .catch(function() {});
+      });
+      $('a.btn-pill[data-hf]').each(function() {
+        var $link = $(this);
+        var modelId = $link.attr('data-hf');
+        var $badge = $link.find('.hf-likes');
+        fetch('https://huggingface.co/api/models/' + modelId)
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            var likes = data.likes != null ? data.likes : (data.likeCount != null ? data.likeCount : null);
+            if (likes != null) {
+              $badge.text('❤️ ' + likes);
+            }
+          })
+          .catch(function() {});
       });
     });
   </script>
