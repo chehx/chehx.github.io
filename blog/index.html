@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>博客 - Haoxuan Che</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="blog.css">
+</head>
+<body class="blog-body">
+  <header class="blog-header">
+    <a href="../index.html" class="blog-home"><i class="fa-solid fa-arrow-left"></i> 返回首页</a>
+    <h1 class="blog-title">博客</h1>
+  </header>
+
+  <main class="blog-main">
+    <div id="blog-list" class="blog-list">
+      <p class="blog-loading">加载中…</p>
+    </div>
+    <article id="blog-post" class="blog-post hidden">
+      <div class="blog-post-back"><a href="index.html" id="post-back-link"><i class="fa-solid fa-arrow-left"></i> 返回列表</a></div>
+      <header class="blog-post-header">
+        <h2 id="post-title"></h2>
+        <time id="post-date" class="blog-post-date"></time>
+      </header>
+      <div id="post-content" class="blog-post-content markdown-body"></div>
+    </article>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    (function () {
+      var listEl = document.getElementById('blog-list');
+      var postEl = document.getElementById('blog-post');
+      var postTitle = document.getElementById('post-title');
+      var postDate = document.getElementById('post-date');
+      var postContent = document.getElementById('post-content');
+      var postBackLink = document.getElementById('post-back-link');
+
+      function showList() {
+        listEl.classList.remove('hidden');
+        postEl.classList.add('hidden');
+      }
+      function showPost() {
+        listEl.classList.add('hidden');
+        postEl.classList.remove('hidden');
+      }
+
+      function renderList(posts) {
+        if (!posts || posts.length === 0) {
+          listEl.innerHTML = '<p class="blog-empty">暂无文章。</p>';
+          return;
+        }
+        posts.sort(function (a, b) { return b.date.localeCompare(a.date); });
+        listEl.innerHTML = '<ul class="blog-ul">' + posts.map(function (p) {
+          return '<li><a href="index.html#' + p.slug + '">' + escapeHtml(p.title) + '</a> <span class="blog-item-date">' + p.date + '</span></li>';
+        }).join('') + '</ul>';
+      }
+
+      function escapeHtml(s) {
+        var div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+      }
+
+      function renderMarkdown(md) {
+        if (typeof marked !== 'undefined') {
+          marked.setOptions({ gfm: true });
+          return marked.parse(md || '');
+        }
+        return '<pre>' + escapeHtml(md || '') + '</pre>';
+      }
+
+      function loadPost(slug, posts) {
+        var meta = posts && posts.find(function (p) { return p.slug === slug; });
+        if (meta) {
+          postTitle.textContent = meta.title;
+          postDate.textContent = meta.date;
+          postDate.setAttribute('datetime', meta.date);
+        }
+        var url = 'posts/' + slug + '.md';
+        fetch(url)
+          .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+          .then(function (md) {
+            postContent.innerHTML = renderMarkdown(md);
+            showPost();
+          })
+          .catch(function () {
+            postTitle.textContent = '未找到文章';
+            postContent.innerHTML = '<p>文章不存在或无法加载。</p>';
+            showPost();
+          });
+      }
+
+      function onHashChange() {
+        var slug = (window.location.hash || '').replace(/^#/, '');
+        if (slug) {
+          window.__blogPosts && loadPost(slug, window.__blogPosts);
+        } else {
+          showList();
+        }
+      }
+
+      fetch('index.json')
+        .then(function (r) { return r.json(); })
+        .then(function (posts) {
+          window.__blogPosts = posts;
+          listEl.classList.remove('blog-loading');
+          renderList(posts);
+          onHashChange();
+        })
+        .catch(function () {
+          listEl.innerHTML = '<p class="blog-empty">无法加载文章列表。</p>';
+        });
+
+      window.addEventListener('hashchange', onHashChange);
+    })();
+  </script>
+</body>
+</html>
