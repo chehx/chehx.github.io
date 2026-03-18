@@ -10,16 +10,23 @@
 </head>
 <body class="blog-body">
   <header class="blog-header">
-    <a href="../index.html" class="blog-home"><i class="fa-solid fa-arrow-left"></i> 返回首页</a>
-    <h1 class="blog-title">博客</h1>
+    <div class="blog-header-row">
+      <a href="../index.html" class="blog-home" id="link-back-home"><i class="fa-solid fa-arrow-left"></i> <span id="text-back-home">返回首页</span></a>
+      <nav class="blog-lang-switch" aria-label="Language">
+        <button type="button" class="blog-lang-btn active" data-lang="zh" id="btn-lang-zh">中文</button>
+        <span class="blog-lang-sep">|</span>
+        <button type="button" class="blog-lang-btn" data-lang="en" id="btn-lang-en">English</button>
+      </nav>
+    </div>
+    <h1 class="blog-title" id="text-blog-title">博客</h1>
   </header>
 
   <main class="blog-main">
     <div id="blog-list" class="blog-list">
-      <p class="blog-loading">加载中…</p>
+      <p class="blog-loading" id="text-loading">加载中…</p>
     </div>
     <article id="blog-post" class="blog-post hidden">
-      <div class="blog-post-back"><a href="index.html" id="post-back-link"><i class="fa-solid fa-arrow-left"></i> 返回列表</a></div>
+      <div class="blog-post-back"><a href="index.html" id="post-back-link"><i class="fa-solid fa-arrow-left"></i> <span id="text-back-list">返回列表</span></a></div>
       <header class="blog-post-header">
         <h2 id="post-title"></h2>
         <time id="post-date" class="blog-post-date"></time>
@@ -31,12 +38,61 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     (function () {
+      var LANG_KEY = 'blog-lang';
+      var UI = {
+        zh: {
+          backHome: '返回首页',
+          blogTitle: '博客',
+          backList: '返回列表',
+          loading: '加载中…',
+          empty: '暂无文章。',
+          loadError: '无法加载文章列表。',
+          postNotFound: '未找到文章',
+          postLoadError: '文章不存在或无法加载。'
+        },
+        en: {
+          backHome: 'Back to Home',
+          blogTitle: 'Blog',
+          backList: 'Back to List',
+          loading: 'Loading…',
+          empty: 'No posts yet.',
+          loadError: 'Could not load post list.',
+          postNotFound: 'Post not found',
+          postLoadError: 'Post does not exist or could not be loaded.'
+        }
+      };
+
+      function getLang() {
+        var stored = localStorage.getItem(LANG_KEY);
+        return stored === 'en' || stored === 'zh' ? stored : 'zh';
+      }
+      function setLang(lang) {
+        localStorage.setItem(LANG_KEY, lang);
+      }
+
+      function getPostTitle(post, lang) {
+        if (lang === 'en' && post.title_en) return post.title_en;
+        if (lang === 'zh' && post.title_zh) return post.title_zh;
+        if (post.title) return post.title;
+        return post.title_zh || post.title_en || post.slug;
+      }
+
       var listEl = document.getElementById('blog-list');
       var postEl = document.getElementById('blog-post');
       var postTitle = document.getElementById('post-title');
       var postDate = document.getElementById('post-date');
       var postContent = document.getElementById('post-content');
-      var postBackLink = document.getElementById('post-back-link');
+
+      function applyUILang(lang) {
+        var t = UI[lang] || UI.zh;
+        var el = document.getElementById('text-back-home'); if (el) el.textContent = t.backHome;
+        el = document.getElementById('text-blog-title'); if (el) el.textContent = t.blogTitle;
+        el = document.getElementById('text-back-list'); if (el) el.textContent = t.backList;
+        el = document.getElementById('text-loading'); if (el) el.textContent = t.loading;
+        document.querySelectorAll('.blog-lang-btn').forEach(function (btn) {
+          btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+        });
+      }
 
       function showList() {
         listEl.classList.remove('hidden');
@@ -47,14 +103,16 @@
         postEl.classList.remove('hidden');
       }
 
-      function renderList(posts) {
+      function renderList(posts, lang) {
+        var t = UI[lang] || UI.zh;
         if (!posts || posts.length === 0) {
-          listEl.innerHTML = '<p class="blog-empty">暂无文章。</p>';
+          listEl.innerHTML = '<p class="blog-empty">' + t.empty + '</p>';
           return;
         }
         posts.sort(function (a, b) { return b.date.localeCompare(a.date); });
         listEl.innerHTML = '<ul class="blog-ul">' + posts.map(function (p) {
-          return '<li><a href="index.html#' + p.slug + '">' + escapeHtml(p.title) + '</a> <span class="blog-item-date">' + p.date + '</span></li>';
+          var title = getPostTitle(p, lang);
+          return '<li><a href="index.html#' + p.slug + '">' + escapeHtml(title) + '</a> <span class="blog-item-date">' + p.date + '</span></li>';
         }).join('') + '</ul>';
       }
 
@@ -72,46 +130,74 @@
         return '<pre>' + escapeHtml(md || '') + '</pre>';
       }
 
-      function loadPost(slug, posts) {
+      function loadPost(slug, posts, lang) {
         var meta = posts && posts.find(function (p) { return p.slug === slug; });
         if (meta) {
-          postTitle.textContent = meta.title;
+          postTitle.textContent = getPostTitle(meta, lang);
           postDate.textContent = meta.date;
           postDate.setAttribute('datetime', meta.date);
         }
-        var url = 'posts/' + slug + '.md';
-        fetch(url)
-          .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
-          .then(function (md) {
-            postContent.innerHTML = renderMarkdown(md);
+        var t = UI[lang] || UI.zh;
+        var other = lang === 'zh' ? 'en' : 'zh';
+        var urls = ['posts/' + slug + '.' + lang + '.md', 'posts/' + slug + '.' + other + '.md', 'posts/' + slug + '.md'];
+        function tryNext(i) {
+          if (i >= urls.length) {
+            postTitle.textContent = t.postNotFound;
+            postContent.innerHTML = '<p>' + t.postLoadError + '</p>';
             showPost();
-          })
-          .catch(function () {
-            postTitle.textContent = '未找到文章';
-            postContent.innerHTML = '<p>文章不存在或无法加载。</p>';
-            showPost();
-          });
+            return;
+          }
+          fetch(urls[i])
+            .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+            .then(function (md) {
+              postContent.innerHTML = renderMarkdown(md);
+              showPost();
+            })
+            .catch(function () { tryNext(i + 1); });
+        }
+        tryNext(0);
       }
 
       function onHashChange() {
         var slug = (window.location.hash || '').replace(/^#/, '');
-        if (slug) {
-          window.__blogPosts && loadPost(slug, window.__blogPosts);
+        var lang = getLang();
+        if (slug && window.__blogPosts) {
+          loadPost(slug, window.__blogPosts, lang);
         } else {
+          renderList(window.__blogPosts || [], lang);
           showList();
         }
       }
+
+      function switchLang(lang) {
+        setLang(lang);
+        applyUILang(lang);
+        var slug = (window.location.hash || '').replace(/^#/, '');
+        if (slug && window.__blogPosts) {
+          loadPost(slug, window.__blogPosts, lang);
+        } else {
+          renderList(window.__blogPosts || [], lang);
+        }
+      }
+
+      applyUILang(getLang());
+
+      document.getElementById('btn-lang-zh').addEventListener('click', function () { switchLang('zh'); });
+      document.getElementById('btn-lang-en').addEventListener('click', function () { switchLang('en'); });
 
       fetch('index.json')
         .then(function (r) { return r.json(); })
         .then(function (posts) {
           window.__blogPosts = posts;
-          listEl.classList.remove('blog-loading');
-          renderList(posts);
+          var lang = getLang();
+          listEl.querySelector('.blog-loading') && listEl.querySelector('.blog-loading').remove();
+          if (listEl.querySelector('.blog-ul')) listEl.querySelector('.blog-ul').remove();
+          renderList(posts, lang);
           onHashChange();
         })
         .catch(function () {
-          listEl.innerHTML = '<p class="blog-empty">无法加载文章列表。</p>';
+          var t = UI[getLang()] || UI.zh;
+          listEl.innerHTML = '<p class="blog-empty">' + t.loadError + '</p>';
         });
 
       window.addEventListener('hashchange', onHashChange);
