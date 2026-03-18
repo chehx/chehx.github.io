@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="blog.css">
 </head>
-<body class="blog-body">
+<body class="blog-body" data-utterances-repo="chehx/chehx.github.io">
   <header class="blog-header">
     <div class="blog-header-row">
       <a href="../index.html" class="blog-home" id="link-back-home"><i class="fa-solid fa-arrow-left"></i> <span id="text-back-home">返回首页</span></a>
@@ -26,12 +26,23 @@
       <p class="blog-loading" id="text-loading">加载中…</p>
     </div>
     <article id="blog-post" class="blog-post hidden">
-      <div class="blog-post-back"><a href="index.html" id="post-back-link"><i class="fa-solid fa-arrow-left"></i> <span id="text-back-list">返回列表</span></a></div>
+      <div class="blog-post-toolbar">
+        <a href="index.html" id="post-back-link" class="blog-post-back"><i class="fa-solid fa-arrow-left"></i> <span id="text-back-list">返回列表</span></a>
+        <nav class="blog-lang-switch blog-lang-switch-inline" aria-label="Language">
+          <button type="button" class="blog-lang-btn" data-lang="zh" id="btn-lang-zh-post">中文</button>
+          <span class="blog-lang-sep">|</span>
+          <button type="button" class="blog-lang-btn" data-lang="en" id="btn-lang-en-post">English</button>
+        </nav>
+      </div>
       <header class="blog-post-header">
         <h2 id="post-title"></h2>
         <time id="post-date" class="blog-post-date"></time>
       </header>
       <div id="post-content" class="blog-post-content markdown-body"></div>
+      <section class="blog-comments" id="blog-comments" aria-label="Comments">
+        <h3 class="blog-comments-title" id="text-comments-title">留言</h3>
+        <div id="utterances-container"></div>
+      </section>
     </article>
   </main>
 
@@ -48,7 +59,8 @@
           empty: '暂无文章。',
           loadError: '无法加载文章列表。',
           postNotFound: '未找到文章',
-          postLoadError: '文章不存在或无法加载。'
+          postLoadError: '文章不存在或无法加载。',
+          commentsTitle: '留言'
         },
         en: {
           backHome: 'Back to Home',
@@ -58,7 +70,8 @@
           empty: 'No posts yet.',
           loadError: 'Could not load post list.',
           postNotFound: 'Post not found',
-          postLoadError: 'Post does not exist or could not be loaded.'
+          postLoadError: 'Post does not exist or could not be loaded.',
+          commentsTitle: 'Comments'
         }
       };
 
@@ -89,9 +102,21 @@
         el = document.getElementById('text-blog-title'); if (el) el.textContent = t.blogTitle;
         el = document.getElementById('text-back-list'); if (el) el.textContent = t.backList;
         el = document.getElementById('text-loading'); if (el) el.textContent = t.loading;
+        el = document.getElementById('text-comments-title'); if (el) el.textContent = t.commentsTitle;
         document.querySelectorAll('.blog-lang-btn').forEach(function (btn) {
           btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
         });
+      }
+
+      function switchLang(lang) {
+        setLang(lang);
+        applyUILang(lang);
+        var slug = (window.location.hash || '').replace(/^#/, '');
+        if (slug && window.__blogPosts) {
+          loadPost(slug, window.__blogPosts, lang);
+        } else {
+          renderList(window.__blogPosts || [], lang);
+        }
       }
 
       function showList() {
@@ -152,6 +177,7 @@
             .then(function (md) {
               postContent.innerHTML = renderMarkdown(md);
               showPost();
+              injectUtterances();
             })
             .catch(function () { tryNext(i + 1); });
         }
@@ -169,21 +195,27 @@
         }
       }
 
-      function switchLang(lang) {
-        setLang(lang);
-        applyUILang(lang);
-        var slug = (window.location.hash || '').replace(/^#/, '');
-        if (slug && window.__blogPosts) {
-          loadPost(slug, window.__blogPosts, lang);
-        } else {
-          renderList(window.__blogPosts || [], lang);
-        }
+      function injectUtterances() {
+        var repo = document.body.getAttribute('data-utterances-repo') || 'chehx/chehx.github.io';
+        var container = document.getElementById('utterances-container');
+        if (!container) return;
+        container.innerHTML = '<div id="utterances"></div>';
+        var script = document.createElement('script');
+        script.src = 'https://utteranc.es/client.js';
+        script.setAttribute('repo', repo);
+        script.setAttribute('issue-term', 'url');
+        script.setAttribute('theme', 'github-light');
+        script.setAttribute('crossorigin', 'anonymous');
+        script.async = true;
+        container.appendChild(script);
       }
 
       applyUILang(getLang());
 
       document.getElementById('btn-lang-zh').addEventListener('click', function () { switchLang('zh'); });
       document.getElementById('btn-lang-en').addEventListener('click', function () { switchLang('en'); });
+      document.getElementById('btn-lang-zh-post').addEventListener('click', function () { switchLang('zh'); });
+      document.getElementById('btn-lang-en-post').addEventListener('click', function () { switchLang('en'); });
 
       fetch('index.json')
         .then(function (r) { return r.json(); })
