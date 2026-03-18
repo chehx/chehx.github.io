@@ -217,20 +217,28 @@
       document.getElementById('btn-lang-zh-post').addEventListener('click', function () { switchLang('zh'); });
       document.getElementById('btn-lang-en-post').addEventListener('click', function () { switchLang('en'); });
 
-      fetch('index.json')
-        .then(function (r) { return r.json(); })
-        .then(function (posts) {
-          window.__blogPosts = posts;
-          var lang = getLang();
-          listEl.querySelector('.blog-loading') && listEl.querySelector('.blog-loading').remove();
-          if (listEl.querySelector('.blog-ul')) listEl.querySelector('.blog-ul').remove();
-          renderList(posts, lang);
-          onHashChange();
-        })
-        .catch(function () {
-          var t = UI[getLang()] || UI.zh;
-          listEl.innerHTML = '<p class="blog-empty">' + t.loadError + '</p>';
-        });
+      if (window.location.protocol === 'file:') {
+        var lang = getLang();
+        listEl.innerHTML = '<p class="blog-empty blog-local-hint">' +
+          (lang === 'zh' ? '当前通过 file:// 打开，无法加载文章列表。请在本项目根目录运行：<code>python3 -m http.server 8000</code>，然后访问 <a href="http://localhost:8000/blog/">http://localhost:8000/blog/</a>' :
+            'Opened via file:// — post list cannot load. Run in project root: <code>python3 -m http.server 8000</code>, then open <a href="http://localhost:8000/blog/">http://localhost:8000/blog/</a>') +
+          '</p>';
+      } else {
+        fetch('index.json')
+          .then(function (r) { return r.json(); })
+          .then(function (posts) {
+            window.__blogPosts = posts;
+            var lang = getLang();
+            listEl.querySelector('.blog-loading') && listEl.querySelector('.blog-loading').remove();
+            if (listEl.querySelector('.blog-ul')) listEl.querySelector('.blog-ul').remove();
+            renderList(posts, lang);
+            onHashChange();
+          })
+          .catch(function () {
+            var t = UI[getLang()] || UI.zh;
+            listEl.innerHTML = '<p class="blog-empty">' + t.loadError + '</p>';
+          });
+      }
 
       window.addEventListener('hashchange', onHashChange);
     })();
