@@ -225,6 +225,14 @@ h2 {
   background: rgba(88, 86, 214, 0.15);
   color: #4a47a3;
 }
+.paper-meta-item.paper-trend {
+  background: rgba(255, 149, 0, 0.2);
+  color: #c93400;
+}
+.paper-meta-item.paper-hf-rank {
+  background: rgba(88, 86, 214, 0.15);
+  color: #4a47a3;
+}
 
 .btn-row { margin-top: 12px; display: flex; gap: 10px; }
 .btn-pill {

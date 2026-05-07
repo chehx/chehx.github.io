@@ -61,5 +61,21 @@ $(document).ready(function () {
       })
       .catch(function () {});
   });
+
+  $('a.btn-pill[data-hf-paper]').each(function () {
+    var $link = $(this);
+    var paperId = $link.attr('data-hf-paper');
+    var $badge = $link.find('.hf-paper-upvotes');
+    fetch('https://huggingface.co/api/papers/' + paperId)
+      .then(function (r) {
+        return r.json();
+      })
+      .then(function (data) {
+        if (data.upvotes != null) {
+          $badge.text('⬆️ ' + data.upvotes);
+        }
+      })
+      .catch(function () {});
+  });
 });
 
