@@ -1,81 +1,73 @@
-$(document).ready(function () {
-  // Smooth Scroll
-  $('a.nav-link').on('click', function (event) {
-    if (this.hash !== '') {
-      event.preventDefault();
-      var hash = this.hash;
-      $('html, body').animate({ scrollTop: $(hash).offset().top - 60 }, 500);
-    }
-  });
+(() => {
+  'use strict';
 
-  // Scroll Spy
-  $(window).on('scroll', function () {
-    var scrollPos = $(window).scrollTop() + 100;
-    $('section').each(function () {
-      var currLink = $('a.nav-link[href="#' + $(this).attr('id') + '"]');
-      if (
-        $(this).position().top <= scrollPos &&
-        $(this).position().top + $(this).height() > scrollPos
-      ) {
-        $('.nav-link').removeClass('active');
-        currLink.addClass('active');
-      }
+  const navLinks = [...document.querySelectorAll('.nav-link[href^="#"]')];
+  const sections = [...document.querySelectorAll('main section[id]')];
+
+  const setActiveLink = (id) => {
+    navLinks.forEach((link) => {
+      const isActive = link.getAttribute('href') === `#${id}`;
+      link.classList.toggle('active', isActive);
+      if (isActive) link.setAttribute('aria-current', 'location');
+      else link.removeAttribute('aria-current');
     });
+  };
+
+  if ('IntersectionObserver' in window) {
+    const visibleSections = new Map();
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) visibleSections.set(entry.target.id, entry.intersectionRatio);
+          else visibleSections.delete(entry.target.id);
+        });
+
+        const current = [...visibleSections.entries()].sort((a, b) => b[1] - a[1])[0];
+        if (current) setActiveLink(current[0]);
+      },
+      { rootMargin: '-18% 0px -60% 0px', threshold: [0.05, 0.2, 0.5] }
+    );
+
+    sections.forEach((section) => observer.observe(section));
+  }
+
+  document.querySelectorAll('[data-current-year]').forEach((node) => {
+    node.textContent = String(new Date().getFullYear());
   });
 
-  // GitHub stars & Hugging Face likes
-  $('a.btn-pill[data-github]').each(function () {
-    var $link = $(this);
-    var repo = $link.attr('data-github');
-    var $badge = $link.find('.gh-stars');
-    fetch('https://api.github.com/repos/' + repo)
-      .then(function (r) {
-        return r.json();
-      })
-      .then(function (data) {
-        if (data.stargazers_count != null) {
-          $badge.text('⭐ ' + data.stargazers_count);
-        }
-      })
-      .catch(function () {});
+  const compactNumber = new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 });
+
+  const fetchJson = async (url) => {
+    const response = await fetch(url, { headers: { Accept: 'application/json' } });
+    if (!response.ok) throw new Error(`Request failed: ${response.status}`);
+    return response.json();
+  };
+
+  document.querySelectorAll('a[data-github]').forEach(async (link) => {
+    const badge = link.querySelector('.gh-stars');
+    if (!badge) return;
+    try {
+      const data = await fetchJson(`https://api.github.com/repos/${link.dataset.github}`);
+      if (Number.isFinite(data.stargazers_count)) badge.textContent = `★ ${compactNumber.format(data.stargazers_count)}`;
+    } catch (_) {}
   });
 
-  $('a.btn-pill[data-hf]').each(function () {
-    var $link = $(this);
-    var modelId = $link.attr('data-hf');
-    var $badge = $link.find('.hf-likes');
-    fetch('https://huggingface.co/api/models/' + modelId)
-      .then(function (r) {
-        return r.json();
-      })
-      .then(function (data) {
-        var likes =
-          data.likes != null
-            ? data.likes
-            : data.likeCount != null
-            ? data.likeCount
-            : null;
-        if (likes != null) {
-          $badge.text('❤️ ' + likes);
-        }
-      })
-      .catch(function () {});
+  document.querySelectorAll('a[data-hf]').forEach(async (link) => {
+    const badge = link.querySelector('.hf-likes');
+    if (!badge) return;
+    try {
+      const data = await fetchJson(`https://huggingface.co/api/models/${link.dataset.hf}`);
+      const likes = data.likes ?? data.likeCount;
+      if (Number.isFinite(likes)) badge.textContent = `♥ ${compactNumber.format(likes)}`;
+    } catch (_) {}
   });
 
-  $('a.btn-pill[data-hf-paper]').each(function () {
-    var $link = $(this);
-    var paperId = $link.attr('data-hf-paper');
-    var $badge = $link.find('.hf-paper-upvotes');
-    fetch('https://huggingface.co/api/papers/' + paperId)
-      .then(function (r) {
-        return r.json();
-      })
-      .then(function (data) {
-        if (data.upvotes != null) {
-          $badge.text('⬆️ ' + data.upvotes);
-        }
-      })
-      .catch(function () {});
+  document.querySelectorAll('a[data-hf-paper]').forEach(async (link) => {
+    const badge = link.querySelector('.hf-paper-upvotes');
+    if (!badge) return;
+    try {
+      const data = await fetchJson(`https://huggingface.co/api/papers/${link.dataset.hfPaper}`);
+      if (Number.isFinite(data.upvotes)) badge.textContent = `↑ ${compactNumber.format(data.upvotes)}`;
+    } catch (_) {}
   });
-});
-
+})();
